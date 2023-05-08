@@ -39,4 +39,4 @@ Considere o trecho de código do `Exercício 4`. Desenhe como a memória do comp
 
 # Exercício Bônus
 
-Quais as diferenças entre a linguagem C e a linguagem Go? Existe alguma vantagem em desenvolver utilizando linguagem Go ao invés de linguagem C? Se existe, enumere algumas delas.
+Quais as semelhas e as diferenças entre a linguagem C e a linguagem Go? Existe alguma vantagem em desenvolver utilizando linguagem Go ao invés de linguagem C? Se existe, cite algumas.
